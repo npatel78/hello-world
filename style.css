@@ -1,3 +1,28 @@
 body {
-    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+}
+
+th a:link, th a:visited, th a:hover, th a:active {
+    color: #ffffff;
+}
+
+.navbar-gb-color {
+    background-color: #1081af;
+}
+
+.info {
+    background-color: #0b5876;
+    padding: 50px 0px 5px 0px;
+    text-align: center;
+}
+
+.text-color {
+    color: #54c3e8;
+}
+
+.xyx {
+    background-color: #ebf5f5;
 }
